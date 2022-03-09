@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+CryptoSwift in CryptoSwift, no dependencies
+CryptoSwift in CryptoSwift, depends on:
+CryptoSwift in CryptoSwift (explicit)
+encrypt-AES in encrypt-AES, depends on:
+CryptoSwift in CryptoSwift (explicit)

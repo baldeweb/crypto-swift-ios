@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "6ff69610d806b52178a09f69cd5520dbab075c47daeb5318b0d660d96e32286d"
+build_start_time: [1646833445, 952281951]
+build_end_time: [1646833448, 127261161]
+inputs:
+  "/Users/wallace/Documents/encrypt-AES/encrypt-AES/AppDelegate.swift": [1646832552, 322361946]
+  "/Users/wallace/Documents/encrypt-AES/encrypt-AES/CryptoUtils.swift": [1646833419, 172389507]
+  "/Users/wallace/Documents/encrypt-AES/encrypt-AES/SceneDelegate.swift": [1646832552, 324956893]
+  "/Users/wallace/Documents/encrypt-AES/encrypt-AES/ViewController.swift": [1646833419, 142927885]

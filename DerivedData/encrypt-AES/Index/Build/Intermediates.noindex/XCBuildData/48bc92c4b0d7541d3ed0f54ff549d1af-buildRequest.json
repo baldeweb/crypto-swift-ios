@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2e0d62ba53cb4348c19a6047ac64009f1c9cae336ae7adbfdc6a7182849a394b"
+    }
+  ],
+  "containerPath" : "/Users/wallace/Documents/encrypt-AES/encrypt-AES.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/Build/Products",
+      "derivedDataPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/wallace/Documents/encrypt-AES/DerivedData/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

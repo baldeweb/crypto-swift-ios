@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1AFA4576-750E-4E9A-982C-3286F0E120D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AFA4576-750E-4E9A-982C-3286F0E120D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>encrypt-AES project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>encrypt-AES</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build encrypt-AES</string>
+			<key>timeStartedRecording</key>
+			<real>668531016.44795299</real>
+			<key>timeStoppedRecording</key>
+			<real>668531017.66333604</real>
+			<key>title</key>
+			<string>Build encrypt-AES</string>
+			<key>uniqueIdentifier</key>
+			<string>1AFA4576-750E-4E9A-982C-3286F0E120D2</string>
+		</dict>
+		<key>34D02F6A-088F-4DB1-953A-E4CFC46891E0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>34D02F6A-088F-4DB1-953A-E4CFC46891E0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>encrypt-AES project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>encrypt-AES</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build encrypt-AES</string>
+			<key>timeStartedRecording</key>
+			<real>668555796.31253803</real>
+			<key>timeStoppedRecording</key>
+			<real>668555797.66845798</real>
+			<key>title</key>
+			<string>Build encrypt-AES</string>
+			<key>uniqueIdentifier</key>
+			<string>34D02F6A-088F-4DB1-953A-E4CFC46891E0</string>
+		</dict>
+		<key>351810E0-CE3E-45C3-B26A-5C6D577A6E9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>351810E0-CE3E-45C3-B26A-5C6D577A6E9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>encrypt-AES project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>encrypt-AES</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build encrypt-AES</string>
+			<key>timeStartedRecording</key>
+			<real>668556078.10587597</real>
+			<key>timeStoppedRecording</key>
+			<real>668556079.40419197</real>
+			<key>title</key>
+			<string>Build encrypt-AES</string>
+			<key>uniqueIdentifier</key>
+			<string>351810E0-CE3E-45C3-B26A-5C6D577A6E9C</string>
+		</dict>
+		<key>97144B03-088E-40B9-9433-08C4749373E9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>97144B03-088E-40B9-9433-08C4749373E9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>encrypt-AES project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>encrypt-AES</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build encrypt-AES</string>
+			<key>timeStartedRecording</key>
+			<real>668556023.70654798</real>
+			<key>timeStoppedRecording</key>
+			<real>668556024.16987705</real>
+			<key>title</key>
+			<string>Build encrypt-AES</string>
+			<key>uniqueIdentifier</key>
+			<string>97144B03-088E-40B9-9433-08C4749373E9</string>
+		</dict>
+		<key>E03BFB3D-F68F-4AD2-9A80-FD2661BD909B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E03BFB3D-F68F-4AD2-9A80-FD2661BD909B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>encrypt-AES project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>encrypt-AES</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build encrypt-AES</string>
+			<key>timeStartedRecording</key>
+			<real>668555891.75661004</real>
+			<key>timeStoppedRecording</key>
+			<real>668555893.054425</real>
+			<key>title</key>
+			<string>Build encrypt-AES</string>
+			<key>uniqueIdentifier</key>
+			<string>E03BFB3D-F68F-4AD2-9A80-FD2661BD909B</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

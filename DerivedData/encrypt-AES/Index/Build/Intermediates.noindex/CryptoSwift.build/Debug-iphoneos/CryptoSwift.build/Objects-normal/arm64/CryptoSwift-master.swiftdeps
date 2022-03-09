@@ -1,0 +1,150 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "3ee6ac2b7582d8dc99624d881706ebdb462c13b9c497db7d96373b8c9368a492"
+build_start_time: [1646833386, 619790077]
+build_end_time: [1646833388, 38507938]
+inputs:
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/AEAD/AEAD.swift"
+  : [1646833372, 918384790]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/AEAD/AEADChaCha20Poly1305.swift"
+  : [1646833372, 918467283]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/AES.Cryptors.swift"
+  : [1646833372, 918542146]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/AES.swift": [1646833372, 918775081]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Array+Extension.swift"
+  : [1646833372, 918872833]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Authenticator.swift"
+  : [1646833372, 918968200]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BatchedCollection.swift"
+  : [1646833372, 919044971]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Bit.swift": [1646833372, 919116497]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockCipher.swift"
+  : [1646833372, 919178485]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockDecryptor.swift"
+  : [1646833372, 919256448]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockEncryptor.swift"
+  : [1646833372, 919336795]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockMode.swift"
+  : [1646833372, 919449329]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/BlockModeOptions.swift"
+  : [1646833372, 919517517]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/CBC.swift"
+  : [1646833372, 919591426]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/CCM.swift"
+  : [1646833372, 919697284]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/CFB.swift"
+  : [1646833372, 919777870]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/CTR.swift"
+  : [1646833372, 919858694]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/CipherModeWorker.swift"
+  : [1646833372, 919919252]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/ECB.swift"
+  : [1646833372, 919989109]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/GCM.swift"
+  : [1646833372, 920064449]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/OCB.swift"
+  : [1646833372, 920165538]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/OFB.swift"
+  : [1646833372, 920227289]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/BlockMode/PCBC.swift"
+  : [1646833372, 920300483]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Blowfish.swift"
+  : [1646833372, 920451641]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/CBCMAC.swift"
+  : [1646833372, 920556783]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/CMAC.swift": [1646833372, 920636892]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/ChaCha20.swift"
+  : [1646833372, 920739412]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Checksum.swift"
+  : [1646833372, 920845985]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Cipher.swift"
+  : [1646833372, 920916080]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Collection+Extension.swift"
+  : [1646833372, 920989274]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/CompactMap.swift"
+  : [1646833372, 921057224]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Cryptor.swift"
+  : [1646833372, 921127796]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Cryptors.swift"
+  : [1646833372, 921228885]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Digest.swift"
+  : [1646833372, 921291351]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/DigestType.swift"
+  : [1646833372, 921373844]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/AES+Foundation.swift"
+  : [1646833372, 921498775]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/Array+Foundation.swift"
+  : [1646833372, 921566009]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/Blowfish+Foundation.swift"
+  : [1646833372, 921619892]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/ChaCha20+Foundation.swift"
+  : [1646833372, 921672344]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/Data+Extension.swift"
+  : [1646833372, 921743154]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/HMAC+Foundation.swift"
+  : [1646833372, 921806335]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/Rabbit+Foundation.swift"
+  : [1646833372, 921866655]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/String+FoundationExtension.swift"
+  : [1646833372, 921937465]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Foundation/Utils+Foundation.swift"
+  : [1646833372, 922005653]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Generics.swift"
+  : [1646833372, 922075271]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/HKDF.swift": [1646833372, 922152996]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/HMAC.swift": [1646833372, 922224760]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/ISO10126Padding.swift"
+  : [1646833372, 922303438]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/ISO78164Padding.swift"
+  : [1646833372, 922384738]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Int+Extension.swift"
+  : [1646833372, 922461986]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/MD5.swift": [1646833372, 922555923]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/NoPadding.swift"
+  : [1646833372, 922617912]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Operators.swift"
+  : [1646833372, 922690868]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF1.swift"
+  : [1646833372, 922803878]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/PKCS/PBKDF2.swift"
+  : [1646833372, 922874927]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS5.swift"
+  : [1646833372, 922929286]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS7.swift"
+  : [1646833372, 922979354]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/PKCS/PKCS7Padding.swift"
+  : [1646833372, 923029184]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Padding.swift"
+  : [1646833372, 923093795]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Poly1305.swift"
+  : [1646833372, 923164367]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Rabbit.swift"
+  : [1646833372, 923244714]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/SHA1.swift": [1646833372, 923349380]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/SHA2.swift": [1646833372, 923405885]
+  "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/SHA3.swift": [1646833372, 923498153]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Scrypt.swift"
+  : [1646833372, 923593044]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/SecureBytes.swift"
+  : [1646833372, 923670530]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/StreamDecryptor.swift"
+  : [1646833372, 923741579]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/StreamEncryptor.swift"
+  : [1646833372, 923804283]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/String+Extension.swift"
+  : [1646833372, 923872709]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/UInt128.swift"
+  : [1646833372, 923937320]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/UInt16+Extension.swift"
+  : [1646833372, 923996448]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/UInt32+Extension.swift"
+  : [1646833372, 924054384]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/UInt64+Extension.swift"
+  : [1646833372, 924106121]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/UInt8+Extension.swift"
+  : [1646833372, 924158096]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Updatable.swift"
+  : [1646833372, 924223423]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/Utils.swift"
+  : [1646833372, 924289941]
+  ? "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/SourcePackages/checkouts/CryptoSwift/Sources/CryptoSwift/ZeroPadding.swift"
+  : [1646833372, 924345970]

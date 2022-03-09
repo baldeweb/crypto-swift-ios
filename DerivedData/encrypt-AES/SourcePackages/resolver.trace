@@ -1,0 +1,5 @@
+derived: https://github.com/krzyzanowskim/CryptoSwift.git
+resolving: https://github.com/krzyzanowskim/CryptoSwift.git
+resolved: https://github.com/krzyzanowskim/CryptoSwift.git @ 1.4.3
+solved:
+cryptoswift[https://github.com/krzyzanowskim/CryptoSwift.git] 1.4.3

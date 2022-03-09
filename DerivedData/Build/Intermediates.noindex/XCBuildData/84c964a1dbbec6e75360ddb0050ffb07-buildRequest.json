@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2e0d62ba53cb4348c19a6047ac64009f1c9cae336ae7adbfdc6a7182849a394b"
+    }
+  ],
+  "containerPath" : "/Users/wallace/Documents/encrypt-AES/encrypt-AES.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/Build/Products",
+      "derivedDataPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/encrypt-AES/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/wallace/Documents/encrypt-AES/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "MacFamily20,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008103-000449D91AD2001E",
+          "TARGET_DEVICE_MODEL" : "Macmini9,1",
+          "TARGET_DEVICE_OS_VERSION" : "12.0.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "macosx"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

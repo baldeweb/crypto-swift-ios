@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0807C30E-139B-48D1-AF71-73F76152CBF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.target</string>
+			<key>fileName</key>
+			<string>0807C30E-139B-48D1-AF71-73F76152CBF0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>CryptoSwift-gndizxelwvomkxafnsmkpkfivfoi</string>
+			<key>timeStartedRecording</key>
+			<real>668526243.523247</real>
+			<key>timeStoppedRecording</key>
+			<real>668526246.05809402</real>
+			<key>title</key>
+			<string>Build target CryptoSwift</string>
+			<key>uniqueIdentifier</key>
+			<string>0807C30E-139B-48D1-AF71-73F76152CBF0</string>
+		</dict>
+		<key>444AB7B3-EA9C-4322-B342-5CBD01E14C1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>444AB7B3-EA9C-4322-B342-5CBD01E14C1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>encrypt-AES-agcwmoharazsbbfinzxobvkpgvpo</string>
+			<key>timeStartedRecording</key>
+			<real>668556078.20355594</real>
+			<key>timeStoppedRecording</key>
+			<real>668556079.39937401</real>
+			<key>title</key>
+			<string>Build target encrypt-AES</string>
+			<key>uniqueIdentifier</key>
+			<string>444AB7B3-EA9C-4322-B342-5CBD01E14C1B</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
